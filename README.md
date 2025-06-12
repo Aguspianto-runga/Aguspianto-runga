@@ -1,4 +1,3 @@
-<section align="center">
   ## Hi there I'm Aguspianto Runga'👋
   <!-- ![Profile](img/github-header-image.png) -->
   
@@ -36,4 +35,3 @@
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
   -->
-</section>
