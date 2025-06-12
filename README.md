@@ -1,11 +1,11 @@
-### Hi there I'm Aguspianto Runga'👋
+## Hi there I'm Aguspianto Runga'👋
 <!-- ![Profile](img/github-header-image.png) -->
 
 ![Naruto](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpsNmxsOWJtbDB4eHZhNHQ1MHRrNTQzaXNpNnY4N3l0Z3J2bDB5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRlqKEzTDKci5JPcaL/giphy.gif)
 
 - 🌱 I’m currently learning at [**Universitas Kristen Indonesia Toraja**](https://ukitoraja.ac.id/)
 
-#### Skils
+### Skils
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma,py,vscode,php,postman,laravel,github,&theme=light)](https://skillicons.dev)
 
 <p align="left">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
-#### My GitHub Stats
+### My GitHub Stats
 ![Aguspianto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aguspianto-runga)
 
 <!--
