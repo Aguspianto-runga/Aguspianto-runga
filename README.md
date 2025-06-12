@@ -7,6 +7,11 @@
 
 ### Skils
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma,py,vscode,php,postman,laravel,github,&theme=light&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,py,vscode,php,postman,laravel,github" />
+  </a>
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
