@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
+#### My GitHub Stats
+![Aguspianto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aguspianto-runga)
 
 <!--
 **Aguspianto-runga/Aguspianto-runga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
