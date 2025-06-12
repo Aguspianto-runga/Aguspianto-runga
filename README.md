@@ -6,12 +6,12 @@
   - 🌱 I’m currently learning at [**Universitas Kristen Indonesia Toraja**](https://ukitoraja.ac.id/)
   
   ### Skils
-  <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma,py,vscode,php,postman,laravel,github,&theme=light)](https://skillicons.dev) -->
-  <p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma,py,vscode,php,postman,laravel,github,&theme=light$paperline=4)](https://skillicons.dev)
+<!--  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,py,vscode,php,postman,laravel,github" />
     </a>
-  </p>
+  </p> -->
   
   <p align="center">
     <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
