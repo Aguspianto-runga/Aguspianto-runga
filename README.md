@@ -15,7 +15,7 @@
 </p>
 
 ### My GitHub Stats
-![Pian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aguspianto-runga)
+![Pian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aguspianto-runga&show_icons=true&theme=radical)
 <!--
 **Aguspianto-runga/Aguspianto-runga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
