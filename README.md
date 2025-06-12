@@ -6,7 +6,7 @@
   - 🌱 I’m currently learning at [**Universitas Kristen Indonesia Toraja**](https://ukitoraja.ac.id/)
   
   ### Skils
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma,py,vscode,php,postman,laravel,github,&theme=light$paperline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma,py,vscode,php,postman,laravel,github,&theme=light$perline=4)](https://skillicons.dev)
 <!--  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,py,vscode,php,postman,laravel,github" />
